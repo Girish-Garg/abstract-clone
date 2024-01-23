@@ -117,6 +117,9 @@ header {
 #search-bar:hover{
   box-shadow: 6px 6px 8px;
 }
+#search-bar:focus {
+  outline: none;
+}
 .main {
   display: flex;
   justify-content: center;
