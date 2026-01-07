@@ -1,2 +1,2 @@
 # abstract-clone
-I Cloned the help page of Abstract with the guidance of @hemang111
+I Cloned the help page of Abstract
